@@ -8,6 +8,17 @@
     <RootNamespace>S22.Imap</RootNamespace>
     <AssemblyName>S22.Imap</AssemblyName>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>S22.Imap.Core</PackageId>
+    <Version>3.6.1</Version>
+    <Authors>George Theofilis</Authors>
+    <Company>CLMS</Company>
+    <Product>S22.Imap.Core</Product>
+    <Description>Port of S22.Imap to .NET Core</Description>
+    <RepositoryUrl>https://github.com/CLMSUK/S22.Imap</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>Imap C# Library Component Mail Email</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageProjectUrl>Imap C# Library Component Mail Email</PackageProjectUrl>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Examples.xml">
